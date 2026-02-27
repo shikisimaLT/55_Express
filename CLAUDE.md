@@ -64,8 +64,8 @@ Website 55 Express dirancang untuk:
 
 ### Versi Dependency
 ```json
-"next": "14.2.5"
-"react": "^18"
+"next": "^16.1.6"
+"react": "^19.2.4"
 "tailwindcss": "^3.4.1"
 "typescript": "^5"
 ```
