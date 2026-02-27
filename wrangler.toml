@@ -1,6 +1,8 @@
 name = "55express"
 compatibility_date = "2024-01-01"
-compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./out"
 
 [vars]
 NEXT_TELEMETRY_DISABLED = "1"
