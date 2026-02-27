@@ -1,6 +1,6 @@
 // ─── WhatsApp Configuration ─────────────────────────────────────────────────
 // Ganti nomor berikut dengan nomor WhatsApp bisnis Anda (format: kode negara + nomor)
-export const WA_NUMBER = '6281234567890'
+export const WA_NUMBER = '6285196103800'
 
 export const WA_MESSAGES = {
   general: 'Halo 55 Express, saya ingin bertanya tentang layanan pengiriman internasional',
